@@ -63,7 +63,7 @@ model=""
 #
 # Version and md5sum
 #
-FIRMWARE_URL="https://raw.githubusercontent.com/niceboygithub/AqaraM1SM2fw/main"
+FIRMWARE_URL="https://mirror.ghproxy.com/https://raw.githubusercontent.com/niceboygithub/AqaraM1SM2fw/main"
 VERSION="4.1.6_0018.0650"
 COOR_MD5SUM="86ab3ace5e29f335d4b38a5b9314d88f"
 KERNEL_MD5SUM="8583fa0714d2ff1a1a01e7d958a8b8e4"
